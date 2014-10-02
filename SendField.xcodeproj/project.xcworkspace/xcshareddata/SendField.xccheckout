@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FCEE5A34-C4DF-4AA6-8C21-EED703DA7D0B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SendField</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>22CAA75FACA6DAB11D3BFA56E71B7A9156EC46BE</key>
+		<string>https://github.com/protovoid/test.git</string>
+		<key>7E2E6A6B4CA3AD38A1C4A1EC6825C7F0F44FAB4E</key>
+		<string>https://github.com/protovoid/SendField.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SendField.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>22CAA75FACA6DAB11D3BFA56E71B7A9156EC46BE</key>
+		<string>../../..</string>
+		<key>7E2E6A6B4CA3AD38A1C4A1EC6825C7F0F44FAB4E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/protovoid/SendField.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7E2E6A6B4CA3AD38A1C4A1EC6825C7F0F44FAB4E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>22CAA75FACA6DAB11D3BFA56E71B7A9156EC46BE</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7E2E6A6B4CA3AD38A1C4A1EC6825C7F0F44FAB4E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SendField</string>
+		</dict>
+	</array>
+</dict>
+</plist>
